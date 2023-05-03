@@ -8,26 +8,26 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.Write("Введите значение x: ");
-            double x = double.Parse(Console.ReadLine());
-            Console.Write("Введите значение u: ");
-            double u = double.Parse(Console.ReadLine());
-            Console.Write("Введите значение b начальное: ");
-            double bStart = double.Parse(Console.ReadLine());
-            Console.Write("Введите значение b конечное: ");
-            double bEnd = double.Parse(Console.ReadLine());
-            Console.Write("Введите значение Delta b: ");
-            double deltaB = double.Parse(Console.ReadLine());
-            double S = 0;
-            for (double b = bStart; b <= bEnd; b += deltaB)
+            const int X = 5;
+            const int Y = 3;
+            const int Z = 7;
+            int largerX, smallerZ, remainingValue;
+            if (X > Z)
             {
-                double cosU = Math.Cos(u);
-                double sqrtTerm = Math.Sqrt(Math.Pow(u, 2) + (b * Math.Cos(b)));
-                double sinB = Math.Sin(b);
-                S += (x * cosU) - (sqrtTerm / sinB);
+                largerX = X;
+                smallerZ = Z;
                 
             }
-            Console.WriteLine($"Значение выражения S: {S}");
+            else
+            {
+                largerX = Z;
+                smallerZ = X;
+                
+            }
+            remainingValue = Y;
+            Console.WriteLine($"Значение большего X: {largerX}");
+            Console.WriteLine($"Значение меньшего Z: {smallerZ}");
+            Console.WriteLine($"Значение Y: {remainingValue}");
             
         }
         
