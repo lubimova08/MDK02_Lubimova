@@ -1,0 +1,10 @@
+C:\Users\Валерия\source\repos\MathQuiz lubimova\MathQuiz lubimova\bin\Debug\MathQuiz lubimova.exe.config
+C:\Users\Валерия\source\repos\MathQuiz lubimova\MathQuiz lubimova\bin\Debug\MathQuiz lubimova.exe
+C:\Users\Валерия\source\repos\MathQuiz lubimova\MathQuiz lubimova\bin\Debug\MathQuiz lubimova.pdb
+C:\Users\Валерия\source\repos\MathQuiz lubimova\MathQuiz lubimova\obj\Debug\MathQuiz lubimova.csproj.AssemblyReference.cache
+C:\Users\Валерия\source\repos\MathQuiz lubimova\MathQuiz lubimova\obj\Debug\MathQuiz_lubimova.Form1.resources
+C:\Users\Валерия\source\repos\MathQuiz lubimova\MathQuiz lubimova\obj\Debug\MathQuiz_lubimova.Properties.Resources.resources
+C:\Users\Валерия\source\repos\MathQuiz lubimova\MathQuiz lubimova\obj\Debug\MathQuiz lubimova.csproj.GenerateResource.cache
+C:\Users\Валерия\source\repos\MathQuiz lubimova\MathQuiz lubimova\obj\Debug\MathQuiz lubimova.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\source\repos\MathQuiz lubimova\MathQuiz lubimova\obj\Debug\MathQuiz lubimova.exe
+C:\Users\Валерия\source\repos\MathQuiz lubimova\MathQuiz lubimova\obj\Debug\MathQuiz lubimova.pdb
