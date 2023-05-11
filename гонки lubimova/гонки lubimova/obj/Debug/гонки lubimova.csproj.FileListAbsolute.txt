@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\ProstoDii23.03\гонки lubimova\гонки lubimova\bin\Debug\гонки lubimova.exe.config
+C:\Users\student\Desktop\ProstoDii23.03\гонки lubimova\гонки lubimova\bin\Debug\гонки lubimova.exe
+C:\Users\student\Desktop\ProstoDii23.03\гонки lubimova\гонки lubimova\bin\Debug\гонки lubimova.pdb
+C:\Users\student\Desktop\ProstoDii23.03\гонки lubimova\гонки lubimova\obj\Debug\гонки lubimova.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ProstoDii23.03\гонки lubimova\гонки lubimova\obj\Debug\гонки lubimova.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\ProstoDii23.03\гонки lubimova\гонки lubimova\obj\Debug\гонки_lubimova.Form1.resources
+C:\Users\student\Desktop\ProstoDii23.03\гонки lubimova\гонки lubimova\obj\Debug\гонки_lubimova.Properties.Resources.resources
+C:\Users\student\Desktop\ProstoDii23.03\гонки lubimova\гонки lubimova\obj\Debug\гонки lubimova.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ProstoDii23.03\гонки lubimova\гонки lubimova\obj\Debug\гонки lubimova.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ProstoDii23.03\гонки lubimova\гонки lubimova\obj\Debug\гонки lubimova.exe
+C:\Users\student\Desktop\ProstoDii23.03\гонки lubimova\гонки lubimova\obj\Debug\гонки lubimova.pdb
