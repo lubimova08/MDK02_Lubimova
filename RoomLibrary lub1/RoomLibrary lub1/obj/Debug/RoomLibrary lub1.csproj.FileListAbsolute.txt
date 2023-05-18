@@ -1,6 +1,0 @@
-C:\Users\Валерия\source\repos\RoomLibrary lub1\RoomLibrary lub1\obj\Debug\RoomLibrary lub1.csproj.AssemblyReference.cache
-C:\Users\Валерия\source\repos\RoomLibrary lub1\RoomLibrary lub1\obj\Debug\RoomLibrary lub1.csproj.CoreCompileInputs.cache
-C:\Users\Валерия\source\repos\RoomLibrary lub1\RoomLibrary lub1\bin\Debug\RoomLibrary lub1.dll
-C:\Users\Валерия\source\repos\RoomLibrary lub1\RoomLibrary lub1\bin\Debug\RoomLibrary lub1.pdb
-C:\Users\Валерия\source\repos\RoomLibrary lub1\RoomLibrary lub1\obj\Debug\RoomLibrary lub1.dll
-C:\Users\Валерия\source\repos\RoomLibrary lub1\RoomLibrary lub1\obj\Debug\RoomLibrary lub1.pdb
